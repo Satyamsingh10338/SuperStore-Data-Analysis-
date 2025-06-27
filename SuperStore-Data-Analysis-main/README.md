@@ -1,3 +1,5 @@
 # SuperStore-Data-Analysis Satyam
-To contribute to the success of a business by utilizing data analysis techniques, focussing on time series analysis to provide insights and accurate Sales Forecasting
-Identified KPI's and created an Interactive Dashboard providing valuable insights on the sales data to SuperStore
+To contribute to business success by leveraging data analysis techniques, with a focus on time series analysis to deliver actionable insights and accurate sales forecasting.
+Identified key performance indicators (KPIs) and developed an interactive dashboard to analyze SuperStore sales data, providing valuable insights that supported data-driven decision-making.
+
+
